@@ -8,10 +8,7 @@
   src: url('/mustica_pro/MusticaPro-SemiBold.otf');
 
 }
-@font-face {
-  font-family: lightt;
-  src: url('/louis_george_caf/Louis\ George\ Cafe\ Light.ttf');
-}
+
 body {
   background-image: url("500492.jpg");
   background-repeat: no-repeat;
